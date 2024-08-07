@@ -17,7 +17,7 @@ https://www.canva.com/design/DAFZ8kgbpIw/yYcgjPMydC0pO4Yq5RgfFQ/view?utm_content
 # Challenges we ran into
 Planning and strategy are among the most important stages in developing a website. You need to have a clear vision of what you want to achieve with your website and create a plan for achieving it. If you don't have a proper plan, you may end up with a website that is not effective or does not meet your business goals.
 <br>
-Creating a website that is visually appealing and easy to navigate is critical for engaging users (who are developers in this case)and keeping them on your site. You need to ensure that your website is optimized for mobile devices and provides a great user experience on all platforms.
+Creating a website that is visually appealing and easy to navigate is critical for engaging users (who are developers in this case)and keeping them on your site. You need to ensure that your website is optimized for mobile devices and provides a great user experience on all platforms
 <br>
 Integrating 3D badges for the projects using Echo 3D.
 <br>
